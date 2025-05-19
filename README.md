@@ -40,3 +40,15 @@ A modern ASP.NET Core Web API for managing employees and departments with Clean 
    ```
    Update-database
 4. run the project
+
+
+-----------------------------------------------------------------
+#Clean Architecture Layers Diagram
+![Image](https://github.com/user-attachments/assets/be0dbca8-ef92-47ea-be41-74822aed506e)
+
+#CQRS Flow Diagram
+![Image](https://github.com/user-attachments/assets/0609593e-daf6-4631-9e1f-bcd080cce81d)
+# Database Relationship Diagram
+![Image](https://github.com/user-attachments/assets/f78a99ea-0dac-441e-b561-811951b4ca0e)
+
+![Image](https://github.com/user-attachments/assets/ec02a942-38ff-4b92-b2a4-13423e9d2515)
