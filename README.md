@@ -18,7 +18,7 @@ A modern ASP.NET Core Web API for managing employees and departments with Clean 
 
 | Layer          | Technologies                          |
 |----------------|---------------------------------------|
-| **API**        | ASP.NET Core 7                        |
+| **API**        | ASP.NET Core 9                        |
 | **Application**| MediatR, CQRS, FluentValidation       |
 | **Domain**     | Clean Architecture, Domain Models     |
 | **Infra**      | EF Core, Repository Pattern           |
