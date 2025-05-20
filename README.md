@@ -28,7 +28,7 @@ A modern ASP.NET Core Web API for managing employees and departments with Clean 
 ### Prerequisites
 - .NET 9 SDK
 - SQL Server
-- IDE (VS 2022+, VS Code, Rider)
+- IDE (VS 2022)
 
 ### Installation
 1. Clone the repo:
